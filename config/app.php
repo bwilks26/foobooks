@@ -2,6 +2,8 @@
 
 return [
 
+    'supportemail' => 'wilksharvard015@gmail.com',
+
     /*
     |--------------------------------------------------------------------------
     | Application Name
